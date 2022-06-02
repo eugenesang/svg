@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="400" width="600" version="1.1" preserveAspectRatio="xMidYMid">
+<polygon points="0 0, 600 0, 600 120, 0 120" fill="black"></polygon>
+        <polygon points="0 120, 600 120, 600 140, 0 140" fill="white"></polygon>
+        <polygon points="0 140, 600 140, 600 260, 0 260" fill="red"></polygon>
+        <polygon points="0 260, 600 260, 600 280, 0 280" fill="white"></polygon>
+        <polygon points="0 280, 600 280, 600 400, 0 400" fill="green"></polygon>
+
+        <!-- <polygon points="200 50, 400 50, 400 350, 200 350" stroke="blue" stroke-width="2" fill="none"></polygon> -->
+
+
+        <path fill="white" d="M 401 347, L 244 118 Q 255 110, 200 49 Q 225 122, 238 119 L 395 352"></path>
+        <path fill="white" d="M 199 347, L 356 118 Q 340 110, 400 50 Q 375 122, 362 119 L 205 352"></path>
+
+        <path fill="red" d="M 270 100, Q 300 50, 330 100 Q 400 200, 330 300 Q 300 350, 270 300 Q 200 200, 270 100 "></path>
+        <path fill="black"  d="M 248 140, q 30 60, 0 120, q -30 -60, 0 -120"></path>
+        <path fill="black" d="M 352 140, q 30 60, 0 120, q -30 -60, 0 -120"></path>
+        <ellipse cx="300" cy="200" rx="10" ry="15" fill="white"></ellipse>
+        <path fill="white" d="M 302.5 77 q 30 50, 0 105"></path>
+        <path fill="white" d="M 297.5 77 q -30 50, 0 105"></path>
+        <path fill="white" d="M 302.5 217 q 30 50, 0 105"></path>
+        <path fill="white" d="M 297.5 217 q -30 50, 0 105"></path>
+
+</svg>
