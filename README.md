@@ -77,8 +77,7 @@ My collection of SVG art
             </g>
             <polygon points="485 500 515 500 505 200 500 180 495 200" style="transform: rotate(234deg)" id="minutesarm" fill="yellow"/>
             <polygon points="475 500 525 500 525 300 500 250 475 300" style="transform: rotate(100deg)" id="hoursarm" fill="green"/>
-            <circle cx="500" cy="500" r="50" style="fill:gold; stroke:goldenrod; stroke-width: 5;"/>       
-            <style>
+            <circle cx="500" cy="500" r="50" style="fill:gold; stroke:goldenrod; stroke-width: 5;"/> <style>
                 path, g, polygon, rect{
                     transform-origin: center;
                 }
