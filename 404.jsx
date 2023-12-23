@@ -1,6 +1,6 @@
 import React from 'react';
 import "./404.css";
-import errorImage from './errorImage.png';
+import errorImage from './404.svg';
 const Error404 = () => {
     return ( <>
         {/* Hello world */}
